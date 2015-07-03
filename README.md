@@ -1,7 +1,7 @@
 py-sugarcrm-api
 ===============
 
-Python Library for SugarCRM SOAP API
+Python Library for SugarCRM's SOAP API
 
   <http://support.sugarcrm.com/02_Documentation/04_Sugar_Developer/Sugar_Developer_Guide_6.7/02_Application_Framework/Web_Services/>
 
